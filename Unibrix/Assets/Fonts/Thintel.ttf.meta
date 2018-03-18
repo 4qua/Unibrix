@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7e8328c355eb5ab4da2c9e987c7df1e2
+timeCreated: 1517945266
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Thintel
+  fontNames:
+  - Thintel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
